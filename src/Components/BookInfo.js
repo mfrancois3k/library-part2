@@ -57,13 +57,13 @@ export default BookInfo;
 
 // build a chrome extension app to scan text and add it to a list
 
-function copyTextScreen() {
-  const text = document.getElementById("text");
-  text.select();
-  document.execCommand("copy");
-}
+// function copyTextScreen() {
+//   const text = document.getElementById("text");
+//   text.select();
+//   document.execCommand("copy");
+// }
 
   
-}
+// }
 
 
